@@ -1,0 +1,28 @@
+{
+  "name": "pigik-node",
+  "version": "1.0.0",
+  "description": "Node.js library for the Pigik API",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigikfintech/pigik-node.git"
+  },
+  "keywords": [
+    "fintech"
+  ],
+  "author": "Andreas Rutjens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigikfintech/pigik-node/issues"
+  },
+  "homepage": "https://github.com/pigikfintech/pigik-node#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
