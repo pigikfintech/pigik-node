@@ -3,8 +3,8 @@
 The Pigik Node library provides convenient access to the Pigik API from applications written in server-side JavaScript.
 ___
 
-Installation
-Block code "fences"
+# Installation
+
 ```
 npm install pigik-node --save
 or
